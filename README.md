@@ -2,9 +2,13 @@
 <br>
 <h2>Primeiro projeto que aprendi no <a href="https://rodolfomori.com.br/devclub/">DevClub</a></h2>
 <br>
-<img src="https://github.com/Michaelhenri/PrimeiroProjeto-DevClub/blob/main/img/We-Care-desktop-phone.png" alt="desktop-logo" align="center" width="500px">
+<a href="https://michaelhenri.github.io/Projeto-We-Care-DevClub/">
+<img src="https://github.com/Michaelhenri/PrimeiroProjeto-DevClub/blob/main/img/We-Care-desktop-phone.png" 
+  alt="desktop-logo" 
+  width="500px" height="370px"
+/></a>
 
-<p>Esse projeto foi voltado ao aprendizado do HTML, CSS e responsividade.</p>
+:computer: Esse projeto foi voltado ao aprendizado do HTML, CSS e responsividade. <b> Clique na imagem e conheça o site <b>.
 
 ### Tecnologias usadas:
 
