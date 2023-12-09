@@ -13,4 +13,4 @@
 - CSS <img src="https://simpleicons.org/icons/css3.svg" width="15px">
 
 ### RESUMO
-<p>Este site foi desenvolvido somente para fins de treinamento com HTML, CSS, reponsividade, semântica e boas práticas para deixar seu código mais legível possivel.</p>
+<p>Este site foi desenvolvido somente para fins de treinamento com HTML, CSS, responsividade, semântica e boas práticas para deixar seu código mais legível possivel.</p>
